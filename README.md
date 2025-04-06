@@ -34,8 +34,8 @@ La clase `LinkedList` implementa los siguientes métodos:
 
 1. Clonar el repositorio:
    ```
-   git clone https://github.com/tuusuario/lista-enlazada.git
-   cd lista-enlazada
+   git clone https://github.com/ESAJ1/Parcial-2.git
+   cd Parcial-2
    ```
 
 2. Compilar el código:
